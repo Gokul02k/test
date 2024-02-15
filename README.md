@@ -1,3 +1,2 @@
-# test
-training 
-gokul#kernel
+okii not ok 
+
